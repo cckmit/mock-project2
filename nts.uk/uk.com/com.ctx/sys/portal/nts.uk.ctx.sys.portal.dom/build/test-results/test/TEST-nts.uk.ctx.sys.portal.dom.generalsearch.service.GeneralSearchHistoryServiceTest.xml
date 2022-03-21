@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.135">
+  <properties/>
+  <testcase name="testCheckRoleSearchManual1" classname="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" time="0.079"/>
+  <testcase name="testCheckRoleSearchManual2" classname="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" time="0.001"/>
+  <testcase name="testCheckRoleSearchManual3" classname="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" time="0.042"/>
+  <testcase name="testCheckRoleSearchManual4" classname="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" time="0.0"/>
+  <testcase name="testCheckRoleSearchManual5" classname="nts.uk.ctx.sys.portal.dom.generalsearch.service.GeneralSearchHistoryServiceTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

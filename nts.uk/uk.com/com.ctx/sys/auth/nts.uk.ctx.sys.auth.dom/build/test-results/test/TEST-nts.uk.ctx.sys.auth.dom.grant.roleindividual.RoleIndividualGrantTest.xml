@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:21" hostname="DESKTOP-SC7EVQL" time="0.107">
+  <properties/>
+  <testcase name="testCreateGrantInfoOfCompanyManager" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.059"/>
+  <testcase name="testGetCorrectedValidPeriodByUserInfo_endDateOfRole_before_expirationDateOfUser" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.003"/>
+  <testcase name="testCheckStatusNormal_user_expired" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.003"/>
+  <testcase name="testGetCorrectedValidPeriodByUserInfo_endDateOfRole_after_expirationDateOfUser" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testCreateFromRole" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testGetCorrectedValidPeriodByUserInfo_expirationDateOfUser_before_startDateOfRole" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testGetCorrectedValidPeriodByUserInfo_user_empty" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testCheckStatusNormal_inv_1" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testGetCorrectedValidPeriodByUserInfo_endDateOfRole_equal_expirationDateOfUser" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="getters" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <testcase name="testCreateGrantInfoOfSystemMananger" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.028"/>
+  <testcase name="testCheckStatusNormal_not_default_user" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.002"/>
+  <testcase name="testCheckStatusNormal_default_user" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.002"/>
+  <testcase name="testCheckStatusNormal_user_empty" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.RoleIndividualGrantTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

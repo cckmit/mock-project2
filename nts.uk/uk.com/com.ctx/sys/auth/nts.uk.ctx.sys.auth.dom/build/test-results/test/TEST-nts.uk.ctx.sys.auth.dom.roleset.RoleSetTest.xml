@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.roleset.RoleSetTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:21" hostname="DESKTOP-SC7EVQL" time="0.003">
+  <properties/>
+  <testcase name="getRoleIDByRoleType_empty" classname="nts.uk.ctx.sys.auth.dom.roleset.RoleSetTest" time="0.003"/>
+  <testcase name="createRoleSet_case_1" classname="nts.uk.ctx.sys.auth.dom.roleset.RoleSetTest" time="0.0"/>
+  <testcase name="createRoleSet_case_2" classname="nts.uk.ctx.sys.auth.dom.roleset.RoleSetTest" time="0.0"/>
+  <testcase name="getRoleIDByRoleType" classname="nts.uk.ctx.sys.auth.dom.roleset.RoleSetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

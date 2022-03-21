@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.gateway.app.command.tenantlogin.ConnectDataSourceOfTenantTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:27" hostname="DESKTOP-SC7EVQL" time="0.22">
+  <properties/>
+  <testcase name="useTL_fail" classname="nts.uk.ctx.sys.gateway.app.command.tenantlogin.ConnectDataSourceOfTenantTest" time="0.185"/>
+  <testcase name="notUseTL" classname="nts.uk.ctx.sys.gateway.app.command.tenantlogin.ConnectDataSourceOfTenantTest" time="0.017"/>
+  <testcase name="useTL_success" classname="nts.uk.ctx.sys.gateway.app.command.tenantlogin.ConnectDataSourceOfTenantTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

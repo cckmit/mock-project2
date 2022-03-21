@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:21" hostname="DESKTOP-SC7EVQL" time="0.032">
+  <properties/>
+  <testcase name="testAdd" classname="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" time="0.019"/>
+  <testcase name="testCheckError_Msg_619" classname="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" time="0.003"/>
+  <testcase name="testChangePeriod_period_duplicate" classname="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" time="0.002"/>
+  <testcase name="testChangePeriod_update" classname="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" time="0.003"/>
+  <testcase name="testCheckError_Msg_2199" classname="nts.uk.ctx.sys.auth.dom.wkpmanager.RegisterWorkplaceManagerServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

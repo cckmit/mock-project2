@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.032">
+  <properties/>
+  <testcase name="testMenuNoImg" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.005"/>
+  <testcase name="testBuilderToString" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.0"/>
+  <testcase name="testFlowMenuFull" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.019"/>
+  <testcase name="testFlowMenuEmpty" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.0"/>
+  <testcase name="testMenuDefaultImg" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.001"/>
+  <testcase name="testLinkFontEmptyWithBold" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.001"/>
+  <testcase name="getters" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.001"/>
+  <testcase name="testMenuFontEmptyWithBold" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.0"/>
+  <testcase name="testLabelFontEmptyWithBold" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.001"/>
+  <testcase name="testMenuUploadImg" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.0"/>
+  <testcase name="setters" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.001"/>
+  <testcase name="testFileFontEmptyWithBold" classname="nts.uk.ctx.sys.portal.dom.toppagepart.createflowmenu.CreateFlowMenuTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

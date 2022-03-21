@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.018">
+  <properties/>
+  <testcase name="updateAlarmDataDsTest1" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" time="0.008"/>
+  <testcase name="updateAlarmDataDsTest2" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" time="0.001"/>
+  <testcase name="updateAlarmDataDsTest3" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" time="0.002"/>
+  <testcase name="updateAlarmDataDsTest4" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" time="0.003"/>
+  <testcase name="updateAlarmDataDsTest5" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.updatealarmdata.UpdateAlarmDataDsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.003">
+  <properties/>
+  <testcase name="testToDomain" classname="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" time="0.002"/>
+  <testcase name="createFromMementoAndGetMemento" classname="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" time="0.0"/>
+  <testcase name="getters" classname="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" time="0.0"/>
+  <testcase name="gettersNull" classname="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" time="0.001"/>
+  <testcase name="testSetMemeto" classname="nts.uk.ctx.sys.portal.dom.toppagesetting.TopPageReloadSettingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

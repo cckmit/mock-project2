@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.GetPersonalEmployeeInfoByUserIdServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:20" hostname="DESKTOP-SC7EVQL" time="0.149">
+  <properties/>
+  <testcase name="testGet_person_empty" classname="nts.uk.ctx.sys.auth.dom.GetPersonalEmployeeInfoByUserIdServiceTest" time="0.114"/>
+  <testcase name="testGet_personEmployeeInfo_not_empty" classname="nts.uk.ctx.sys.auth.dom.GetPersonalEmployeeInfoByUserIdServiceTest" time="0.029"/>
+  <testcase name="testGet_user_empty" classname="nts.uk.ctx.sys.auth.dom.GetPersonalEmployeeInfoByUserIdServiceTest" time="0.003"/>
+  <testcase name="testGet_person_personEmployeeInfo_empty" classname="nts.uk.ctx.sys.auth.dom.GetPersonalEmployeeInfoByUserIdServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

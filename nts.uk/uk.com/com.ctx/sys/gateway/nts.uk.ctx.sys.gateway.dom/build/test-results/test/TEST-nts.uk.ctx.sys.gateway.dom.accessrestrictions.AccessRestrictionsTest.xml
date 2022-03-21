@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:28" hostname="DESKTOP-SC7EVQL" time="0.088">
+  <properties/>
+  <testcase name="delIPAddressNotUseAtr" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.018"/>
+  <testcase name="updateIPAddressEx1835" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.004"/>
+  <testcase name="updateIPAddressEx2187" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.003"/>
+  <testcase name="testIsAccessable_USE" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.046"/>
+  <testcase name="delIPAddress" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.0"/>
+  <testcase name="updateIPAddress" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="getter" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="testSortedList" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.008"/>
+  <testcase name="delIPAddressEx2187" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="testIsAccessable_NotUse" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.0"/>
+  <testcase name="delIPAddressEx2187WithRange" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="AccessRestrictions" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="addIPAddressEx1835" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.0"/>
+  <testcase name="addIPAddressEx2187" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="addIPAddressEx2187WithRange" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.0"/>
+  <testcase name="updateIPAddressEx2187WithRange" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.001"/>
+  <testcase name="addIPAddress" classname="nts.uk.ctx.sys.gateway.dom.accessrestrictions.AccessRestrictionsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

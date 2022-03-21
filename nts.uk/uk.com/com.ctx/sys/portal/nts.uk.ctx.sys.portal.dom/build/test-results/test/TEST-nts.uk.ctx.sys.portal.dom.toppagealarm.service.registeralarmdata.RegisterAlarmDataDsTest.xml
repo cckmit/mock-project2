@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.049">
+  <properties/>
+  <testcase name="RegisterAlarmDataDsTest1" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.013"/>
+  <testcase name="RegisterAlarmDataDsTest2" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.004"/>
+  <testcase name="RegisterAlarmDataDsTest3" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.011"/>
+  <testcase name="RegisterAlarmDataDsTest4" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.004"/>
+  <testcase name="RegisterAlarmDataDsTest5" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.004"/>
+  <testcase name="RegisterAlarmDataDsTest6" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.003"/>
+  <testcase name="RegisterAlarmDataDsTest7" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.006"/>
+  <testcase name="RegisterAlarmDataDsTest8" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.service.registeralarmdata.RegisterAlarmDataDsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

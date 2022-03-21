@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:21" hostname="DESKTOP-SC7EVQL" time="0.001">
+  <properties/>
+  <testcase name="testIsManagerRole_human_resource" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.001"/>
+  <testcase name="testIsManagerRole_system_manager" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_groupCompany_manager" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_salary" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_office_helper" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_company_manager" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_myNumber" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_personalInfo" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <testcase name="testIsManagerRole_employment" classname="nts.uk.ctx.sys.auth.dom.role.RoleTypeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

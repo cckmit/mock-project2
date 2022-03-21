@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.019">
+  <properties/>
+  <testcase name="isErrResolvedTest" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.013"/>
+  <testcase name="changeSubSidsTest" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="updateReadDateTimeTest" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.001"/>
+  <testcase name="testBuilder" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="getters" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="changeSubSidsTest2" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="changeSubSidsTest3" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.001"/>
+  <testcase name="changeSubSidsTest4" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="updateOccurrenceDateTimeTest" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.001"/>
+  <testcase name="testAllArgsConstructor" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="changeResolvedStatusTest" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="isErrResolvedTest2" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.0"/>
+  <testcase name="isErrResolvedTest3" classname="nts.uk.ctx.sys.portal.dom.toppagealarm.ToppageAlarmDataTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

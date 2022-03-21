@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:20" hostname="DESKTOP-SC7EVQL" time="0.764">
+  <properties/>
+  <testcase name="testGrant_success" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.067"/>
+  <testcase name="testIsAlwaysASystemAdmin_validPeriod_not_empty_and_all_time_have_system_admin_in_checkTargetPeriod" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.06"/>
+  <testcase name="testGrant_user_expired" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.03"/>
+  <testcase name="testUpdateValidPeriod_not_role_manager" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.027"/>
+  <testcase name="testIsAlwaysASystemAdmin_dont_have_manager_period_in_checkTargetPeriod" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.032"/>
+  <testcase name="testGrant_user_empty" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.029"/>
+  <testcase name="testIsAlwaysASystemAdmin_validPeriod_not_empty_and_dont_have_system_admin_in_checkPeriodTarget" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.042"/>
+  <testcase name="testGrant_not_role_manager" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.026"/>
+  <testcase name="testUpdateValidPeriod_user_default" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.025"/>
+  <testcase name="testUpdateValidPeriod_Msg_330" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.045"/>
+  <testcase name="testUpdateValidPeriod_update_success" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.042"/>
+  <testcase name="testGrant_msg3" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.027"/>
+  <testcase name="testUpdateValidPeriod_user_empty" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.029"/>
+  <testcase name="testDeprive_delete_success" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.043"/>
+  <testcase name="testUpdateValidPeriod_user_expired" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.027"/>
+  <testcase name="testGrant_user_default" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.026"/>
+  <testcase name="testDeprive_Msg_331" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.039"/>
+  <testcase name="testIsAlwaysASystemAdmin_validPeriod_empty" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.016"/>
+  <testcase name="testIsAlwaysASystemAdmin_have_manager_period_in_checkTargetPeriod" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.042"/>
+  <testcase name="testIsAlwaysASystemAdmin_validPeriod_not_empty_and_have_system_admin_in_checkPeriodTarget" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.042"/>
+  <testcase name="testIsAlwaysASystemAdmin_all_time_have_system_admin_in_checkTargetPeriod" classname="nts.uk.ctx.sys.auth.dom.grant.roleindividual.GrantSystemAdminRoleServiceTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

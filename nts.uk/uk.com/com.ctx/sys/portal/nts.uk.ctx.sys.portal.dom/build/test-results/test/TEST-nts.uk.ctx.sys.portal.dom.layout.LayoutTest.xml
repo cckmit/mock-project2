@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.portal.dom.layout.LayoutTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:32" hostname="DESKTOP-SC7EVQL" time="0.023">
+  <properties/>
+  <testcase name="createFromMementoAndGetMemento" classname="nts.uk.ctx.sys.portal.dom.layout.LayoutTest" time="0.02"/>
+  <testcase name="getters" classname="nts.uk.ctx.sys.portal.dom.layout.LayoutTest" time="0.0"/>
+  <testcase name="gettersNull" classname="nts.uk.ctx.sys.portal.dom.layout.LayoutTest" time="0.0"/>
+  <testcase name="testSetMemeto" classname="nts.uk.ctx.sys.portal.dom.layout.LayoutTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

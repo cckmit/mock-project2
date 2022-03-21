@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nts.uk.ctx.sys.auth.dom.permission.roleId.RoleIdWorkDomServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T07:48:21" hostname="DESKTOP-SC7EVQL" time="0.024">
+  <properties/>
+  <testcase name="testEmptyRoles" classname="nts.uk.ctx.sys.auth.dom.permission.roleId.RoleIdWorkDomServiceTest" time="0.018"/>
+  <testcase name="testEmptySids" classname="nts.uk.ctx.sys.auth.dom.permission.roleId.RoleIdWorkDomServiceTest" time="0.0"/>
+  <testcase name="testEmptyUserId" classname="nts.uk.ctx.sys.auth.dom.permission.roleId.RoleIdWorkDomServiceTest" time="0.001"/>
+  <testcase name="testNotEmptyAll" classname="nts.uk.ctx.sys.auth.dom.permission.roleId.RoleIdWorkDomServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

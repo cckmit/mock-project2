@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+	<wb-module deploy-name="nts.uk.ctx.office.pubimp">
+		<wb-resource deploy-path="/" source-path="src/main/java"/>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.office.pub/nts.uk.ctx.office.pub">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.office.app/nts.uk.ctx.office.app">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.office.dom/nts.uk.ctx.office.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.shr.com/nts.uk.shr.com">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+	</wb-module>
+</project-modules>

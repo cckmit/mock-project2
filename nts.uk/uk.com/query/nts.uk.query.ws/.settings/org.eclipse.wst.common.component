@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+	<wb-module deploy-name="nts.uk.query.ws">
+		<wb-resource deploy-path="/" source-path="src/main/java"/>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.query.app/nts.uk.query.app">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.query.model/nts.uk.query.model">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.exio.dom/nts.uk.ctx.exio.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.basic.dom/nts.uk.ctx.basic.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.sys.auth.dom/nts.uk.ctx.sys.auth.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.sys.portal.dom/nts.uk.ctx.sys.portal.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.sys.gateway.dom/nts.uk.ctx.sys.gateway.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.sys.env.dom/nts.uk.ctx.sys.env.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.sys.shared.dom/nts.uk.ctx.sys.shared.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.bs.company.dom/nts.uk.ctx.bs.company.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.bs.employee.dom/nts.uk.ctx.bs.employee.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.bs.person.dom/nts.uk.ctx.bs.person.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.workflow.dom/nts.uk.ctx.workflow.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.health.dom/nts.uk.ctx.health.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.office.dom/nts.uk.ctx.office.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.pereg.dom/nts.uk.ctx.pereg.dom">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.ctx.bs.employee.pub/nts.uk.ctx.bs.employee.pub">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="../" handle="module:/resource/nts.uk.shr.com/nts.uk.shr.com">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+	</wb-module>
+</project-modules>
